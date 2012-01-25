@@ -1,7 +1,7 @@
 {
   "name": "comingsoon",
   "fullName": "Coming Soon",
-  "description": "A straightforward 'Coming Soon' template",
+  "description": "A straightforward 'Coming Soon' template. You may use it on a device type that you intend to support in the future.",
   "version": "0.0.1",
   "keywords": [
     "comingsoon",
@@ -9,5 +9,9 @@
     "splash"
   ],
   "joshfire": {
+    "images": {
+      "small":"marketing/image-small.png",
+      "big":"marketing/image-big.png"
+    }
   }
 }
