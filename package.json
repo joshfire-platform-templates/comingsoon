@@ -38,6 +38,6 @@
         "devices": "*",
         "startfile": "index.html"
       }
-    ],    
+    ]    
   }
 }
