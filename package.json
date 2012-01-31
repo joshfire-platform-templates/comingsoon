@@ -12,6 +12,32 @@
     "images": {
       "small":"marketing/image-small.png",
       "big":"marketing/image-big.png"
-    }
+    },
+    "devices": [
+      {
+        "devices": "desktop",
+        "startfile": "index.html",
+        "images": "marketing/preview-desktop.png"
+      },
+      {
+        "devices": "phone",
+        "startfile": "index.html",
+        "images":"marketing/preview-phone.png"
+      },
+      {
+        "devices": "tablet",
+        "startfile": "index.html",
+        "images":"marketing/preview-tablet.png"
+      },
+      {
+        "devices": "tv",
+        "startfile": "index.html",
+        "images":"marketing/preview-tv.png"
+      },
+      {
+        "devices": "*",
+        "startfile": "index.html"
+      }
+    ],    
   }
 }
